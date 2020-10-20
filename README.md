@@ -2,4 +2,4 @@
 
 [Link to the task](https://github.com/luxplanjay/html-css-homework/blob/master/04-flexbox/homework.md)
 
-[Link to the GitHub Pages](https://ghileors.github.io/goit-markup-hw-04/)
+[Link to the GitHub Pages](https://ghileors.github.io/goit-markup-hw-04-mart/)
